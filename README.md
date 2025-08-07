@@ -28,7 +28,7 @@ the development stack, I have spent a considerable amount of time in perfecting 
 <br>
 ✔ Integrated cloudinary API for image processing & storage
 <br>
-✔ Product & seller registration funtionalities in place
+✔ Product & seller registration functionalities in place
 <br>
 ✔ Inventory and stock management module implementation currently ongoing.
 
