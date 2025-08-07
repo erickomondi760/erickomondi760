@@ -24,7 +24,7 @@ the development stack, I have spent a considerable amount of time in perfecting 
 ### Project status
 ✔ Security implemented using JWT, cookies and spring security
 <br>
-✔ Implemented login functionality using React + Js
+✔ Implemented client side login functionality using ReactJs
 <br>
 ✔ Integrated cloudinary API for image processing & storage
 <br>
@@ -33,5 +33,5 @@ the development stack, I have spent a considerable amount of time in perfecting 
 ✔ Inventory and stock management module implementation currently ongoing.
 
 ## My role on the project 
-⚔ Full stack engineer
+⚔ Full stack software engineer
 
