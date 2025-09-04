@@ -30,7 +30,7 @@ the development stack, I have spent a considerable amount of time in perfecting 
 <br>
 ✔ Product & seller registration functionalities in place
 <br>
-✔ Inventory management and pricing module implementation currently ongoing.
+✔ Inventory management and pricing modules implementation currently ongoing.
 
 ## My role on the project 
 ⚔ Full stack software engineer
