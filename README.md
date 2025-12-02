@@ -2,9 +2,8 @@
 
 
 # About me😊
-I am a developer driven by the urge to provide effective solutions to problems. During development, my goal is to deliver secure, scalable and robust applications.
-I achieve this by taking into account the best architectural pattern, security practices and data storage mechanism. Given my passion and willingness to understand both sides of
-the development stack, I have spent a considerable amount of time in perfecting my skills in Java, JavaScript, Spring Boot as well as ReactJs.
+I am a developer driven by the urge to provide effective solutions to problems. During development, I aim to deliver secure, scalable and robust applications.
+I achieve this by taking into account the best architectural patterns, security practices and data storage mechanism. As a result my passion for front end and server side development, I have spent a considerable amount of time in perfecting my skills in Java, JavaScript, Spring Boot as well as ReactJs.
 
 # Most used languages & frameworks
 1 .Java
