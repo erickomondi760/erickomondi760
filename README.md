@@ -2,7 +2,7 @@
 
 
 # About me😊
-I am a developer driven by the urge to provide effective solutions to problems. During development, I aim to deliver secure, scalable and robust applications.
+I am a developer driven by the urge to provide effective solutions to problems. While developing, I aim to deliver secure, scalable and robust applications.
 I achieve this by taking into account the best architectural patterns, security practices and data storage mechanisms.
 As a result of my passion for front end and server side development, I have spent a considerable amount of time in perfecting my skills in Java, JavaScript, Spring Boot and ReactJs.
 
