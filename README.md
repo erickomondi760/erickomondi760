@@ -110,3 +110,8 @@ Check out my portfolio site for more details:
 ## My role on the project 
 ⚔ Full stack software engineer
 
+## 🐍 GitHub Contribution Snake  
+
+![GitHub Snake](https://github.com/erickomondi760/erickomondi760/blob/output/github-contribution-grid-snake.svg)
+
+
