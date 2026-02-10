@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I’m a full‑stack developer passionate about building scalable applications and solving real‑world problems with code.  
 
+https://img.shields.io/badge/React-18-blue?logo=react https://img.shields.io/badge/Spring%20Boot-3-green?logo=springboot https://img.shields.io/badge/MongoDB-6-brightgreen?logo=mongodb https://img.shields.io/badge/Netlify-Deployed-success?logo=netlify https://img.shields.io/badge/License-MIT-yellow https://img.shields.io/github/stars/erickomondi760?style=social
+
 ---
 
 # Most used languages & frameworks
