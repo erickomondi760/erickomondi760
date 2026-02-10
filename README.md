@@ -29,6 +29,7 @@ Welcome to my GitHub profile! I’m a full‑stack developer passionate about bu
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erickomondi760&theme=radical)
 
+
 ---
 
 ## 👨‍💻 About Me  
