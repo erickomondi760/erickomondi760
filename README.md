@@ -1,6 +1,3 @@
-
-
-
 # 👋 Hi, I'm Erick Omondi
 
 Welcome to my GitHub profile! I’m a full‑stack developer passionate about building scalable applications and solving real‑world problems with code.  
