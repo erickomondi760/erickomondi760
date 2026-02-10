@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I’m a full‑stack developer passionate about bu
 ## 📊 GitHub Activity  
 
 ![Commits](https://img.shields.io/badge/Commits-1200-blue?style=flat-square)  
-![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20SQL-green?style=flat-square)  
+![Languages](https://img.shields.io/badge/Languages-Java%20%7C%20JavaScript%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20SQL-green?style=flat-square)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erickomondi760&theme=radical)
 
 
