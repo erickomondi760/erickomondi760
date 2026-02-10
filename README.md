@@ -12,8 +12,6 @@ Welcome to my GitHub profile! I’m a full‑stack developer passionate about bu
 3. Spring Boot
 <br>
 4. React.js
-Here’s a polished **README.md update** for your GitHub profile repo (`erickomondi760/erickomondi760`). I’ve added a **Featured Projects** section that highlights your strongest pinned projects with blurbs, links, and screenshot placeholders. You can copy‑paste this directly into your profile README:
-
 ---
 
 ## 🌟 Featured Projects
