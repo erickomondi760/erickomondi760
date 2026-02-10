@@ -112,6 +112,6 @@ Check out my portfolio site for more details:
 
 ## 🐍 GitHub Contribution Snake  
 
-![GitHub Snake](![GitHub Snake](https://raw.githubusercontent.com/erickomondi760/erickomondi760/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/erickomondi760/erickomondi760/output/github-contribution-grid-snake.svg)
 
 
