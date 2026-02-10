@@ -50,11 +50,7 @@ Check out my portfolio site for more details:
 - 💼 [LinkedIn](#)(https://www.linkedin.com/in/erick-okumu-05020020a)
 - 📧 Email: (erickomondi760@gmail.com)
 
----
-
-✨ This grid layout makes your profile **scannable and professional**: recruiters can instantly see project names, blurbs, tech stacks, and links. You can also embed screenshots below each project if you want more visuals.
-
-Would you like me to **add screenshot embeds under each project card** (using your `src/assets` images) so the grid has both text and visuals?                                              
+---                                           
 
 # Current project
 ## An ecommerce web application. 
