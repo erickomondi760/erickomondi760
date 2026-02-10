@@ -20,6 +20,11 @@ Welcome to my GitHub profile! I’m a full‑stack developer passionate about bu
 ![GitHub stars](https://img.shields.io/github/stars/erickomondi760?style=social)
 
 ---
+## 👀 Profile Visitors  
+
+![Visitor Count](https://komarev.com/ghpvc/?username=erickomondi760&color=blue&style=flat-square)
+
+---
 
 ## 📊 GitHub Activity    
 
@@ -110,9 +115,6 @@ Check out my portfolio site for more details:
 ## My role on the project 
 ⚔ Full stack software engineer
 
-## 🐍 GitHub Contribution Snake  
-
-![GitHub Snake](https://raw.githubusercontent.com/erickomondi760/erickomondi760/output/github-contribution-grid-snake.svg)
 
 
 
