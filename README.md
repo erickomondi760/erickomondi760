@@ -19,7 +19,17 @@ Welcome to my GitHub profile! I’m a full‑stack developer passionate about bu
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![GitHub stars](https://img.shields.io/github/stars/erickomondi760?style=social)
 
+---
 
+## 👨‍💻 About Me  
+
+Hi, I’m **Erick Omondi** — a spirited full‑stack developer with a strong focus on building scalable, secure, and user‑friendly applications.  
+
+- 🎯 **Driven by problem‑solving:** I love turning complex challenges into elegant solutions, whether it’s designing enterprise systems or crafting intuitive web apps.  
+- 💡 **Versatile skill set:** My experience spans frontend frameworks (React, Vite, JavaFX), backend technologies (Java, Spring Boot, Spring Microservices, Node.js), databases (MongoDB, MySQL, Oracle), and DevOps tools (Docker, CI/CD, Git, AWS).  
+- 🔐 **Security‑minded:** I actively implement JWT and OAuth for authentication, ensuring applications are robust and secure.  
+- 🚀 **Persistent builder:** From long‑term projects like my IMS Desktop Client to modern ecommerce platforms, I’ve proven my ability to deliver end‑to‑end solutions.  
+- 🌍 **Future goals:** I aim to contribute to impactful projects, collaborate with innovative teams, and grow into a lead developer role where I can mentor others while continuing to learn.  
 
 ---
 
