@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I’m a full‑stack developer passionate about bu
 | Project | Description | Tech Stack | Links |Screenshots |
 |---------|-------------|------------|-------|------------|
 | 🛒 **Shopping Web App** | Ecommerce app with product browsing, cart, checkout, and order tracking. | React, React router, Redux, Context API, CSS | [Repo](https://github.com/erickomondi760/shopping-web-app) • [Demo](https://github.com/erickomondi760/shopping-web-app) |![Image](src/assets/products.PNG) |
-| 🖼️ **Image Viewer** | Unsplash API integration with search, dark mode, and caching. | React, Vite, React Query | [Repo](https://github.com/erickomondi760/image-viewer) • [Demo](https://github.com/erickomondi760/image-viewer) | ![Image](image-viewer/src/assets/home.PNG) |
+| 🖼️ **Image Viewer** | Unsplash API integration with search, dark mode, and caching. | React, Vite, React Query | [Repo](https://github.com/erickomondi760/image-viewer) • [Demo](https://github.com/erickomondi760/image-viewer) | ![Image](https://raw.githubusercontent.com/erickomondi760/image-viewer/main/src/assets/home.PNG) |
 | 📦 **IMS Desktop Client** | Enterprise desktop app for inventory, LPOs, invoicing, and reporting. | Java, JavaFX, Maven | [Repo](https://github.com/erickomondi760/IMS-Desktop-Client-App) |![Image](src/images/Inventory%20page.png) |
 | 🛍️ **Ecommerce Platform** | Full‑stack ecommerce with authentication, catalog, cart, and orders. | Spring Boot, React, MongoDB, JWT | [Repo](https://github.com/erickomondi760/Online-shop-back-end)
 
