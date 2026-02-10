@@ -23,12 +23,9 @@ Welcome to my GitHub profile! I’m a full‑stack developer passionate about bu
 
 ## 📊 GitHub Activity    
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erickomondi760&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erickomondi760&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erickomondi760&theme=radical)
-
+![Commits](https://img.shields.io/badge/Commits-1200-blue)
+![Languages](https://img.shields.io/badge/Languages-Java%20%7C%20React%20%7C%20SQL-green)
+![Streak](https://img.shields.io/badge/Streak-45%20days-orange)
 
 ---
 
