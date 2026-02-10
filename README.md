@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a full‑stack developer passionate about bu
 ---
 
 # Most used languages & frameworks
-1 .Java
+1 . Java
 <br>
 2. JavaScript
 <br>
