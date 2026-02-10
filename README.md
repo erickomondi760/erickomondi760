@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I’m a full‑stack developer passionate about building scalable applications and solving real‑world problems with code.  
 
-# 👋 Hi, I'm Erick Omondi  
-
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-green?logo=springboot)
 ![Spring Microservices](https://img.shields.io/badge/Spring-Microservices-green?logo=spring)
@@ -45,7 +43,7 @@ Welcome to my GitHub profile! I’m a full‑stack developer passionate about bu
 |---------|-------------|------------|-------|------------|
 | 🛒 **Shopping Web App** | Ecommerce app with product browsing, cart, checkout, and order tracking. | React, React router, Redux, Context API, CSS | [Repo](https://github.com/erickomondi760/shopping-web-app) • [Demo](https://github.com/erickomondi760/shopping-web-app) |[Image](shopping-web-app/blob/main/src/assets/products.PNG) |
 | 🖼️ **Image Viewer** | Unsplash API integration with search, dark mode, and caching. | React, Vite, React Query | [Repo](https://github.com/erickomondi760/image-viewer) • [Demo](https://github.com/erickomondi760/image-viewer) |[Image](image-viewer/tree/master/src/assets/home.PNG) |
-| 📦 **IMS Desktop Client** | Enterprise desktop app for inventory, LPOs, invoicing, and reporting. | Java, JavaFX, Maven | [Repo](https://github.com/erickomondi760/IMS-Desktop-Client-App) |[Image](IMS-Desktop-Client-App/src/images/Inventory%20page.png) |
+| 📦 **IMS Desktop Client** | Enterprise desktop app for inventory, LPOs, invoicing, and reporting. | Java, JavaFX, Maven | [Repo](https://github.com/erickomondi760/IMS-Desktop-Client-App) |![Image](IMS-Desktop-Client-App/src/images/Inventory%20page.png) |
 | 🛍️ **Ecommerce Platform** | Full‑stack ecommerce with authentication, catalog, cart, and orders. | Spring Boot, React, MongoDB, JWT | [Repo](https://github.com/erickomondi760/Online-shop-back-end)
 
 </div>
