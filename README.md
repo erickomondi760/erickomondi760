@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I’m a full‑stack developer passionate about bu
 ---
 
 # Most used languages & frameworks
+
 1 . Java
 <br>
 2. JavaScript
@@ -64,15 +65,45 @@ Check out my portfolio site for more details:
 
 ---
 
-## 🤝 Let’s Connect
-- 💼 [LinkedIn](#)(https://www.linkedin.com/in/erick-okumu-05020020a)*  
-- 📧 Email: *(erickomondi760@gmail.com)*  
+## 🌟 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| 🛒 **Shopping Web App** | Ecommerce app with product browsing, cart, checkout, and order tracking. | React, Context API, CSS | [Repo](https://github.com/erickomondi760/shopping-web-app) • [Demo](https://github.com/erickomondi760/shopping-web-app) |
+| 🖼️ **Image Viewer** | Unsplash API integration with search, dark mode, and caching. | React, Vite, React Query | [Repo](https://github.com/erickomondi760/image-viewer) • [Demo](https://github.com/erickomondi760/image-viewer) |
+| 📦 **IMS Desktop Client** | Enterprise desktop app for inventory, LPOs, invoicing, and reporting. | Java, JavaFX, Maven | Repo [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Ferickomondi760%2FIMS-Desktop-Client-App") |
+| 🛍️ **Ecommerce Platform** | Full‑stack ecommerce with authentication, catalog, cart, and orders. | Spring Boot, React, MongoDB, JWT | Repo [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Ferickomondi760%2Fecommerce-platform") |
+
+</div>
 
 ---
 
-✅ This version makes your profile README **portfolio‑ready**: it highlights your best work, includes screenshots from `src/assets`, and links directly to repos and demos.  
+## 📌 Skills
+- **Frontend:** React, Vite, JavaFX  
+- **Backend:** Java, Spring Boot, Node.js  
+- **Database:** MongoDB, MySQL  
+- **Deployment:** Netlify, Vercel  
+- **Other:** JWT Security, REST APIs, CI/CD  
 
-Would you like me to also **design a grid layout (cards with image + title + buttons)** for the Featured Projects section so it looks sleek and modern on your GitHub profile page?
+---
+
+## 🌐 Portfolio Site
+Check out my portfolio site for more details:  
+👉 [erickomondi-portfolio.netlify.app](https://erickomondi-portfolio.netlify.app)
+
+---
+
+## 🤝 Let’s Connect
+- 💼 [LinkedIn](#)(https://www.linkedin.com/in/erick-okumu-05020020a)
+- 📧 Email: (erickomondi760@gmail.com)
+
+---
+
+✨ This grid layout makes your profile **scannable and professional**: recruiters can instantly see project names, blurbs, tech stacks, and links. You can also embed screenshots below each project if you want more visuals.
+
+Would you like me to **add screenshot embeds under each project card** (using your `src/assets` images) so the grid has both text and visuals?                                              
 
 # Current project
 ## An ecommerce web application. 
