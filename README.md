@@ -2,7 +2,23 @@
 
 Welcome to my GitHub profile! I’m a full‑stack developer passionate about building scalable applications and solving real‑world problems with code.  
 
-https://img.shields.io/badge/React-18-blue?logo=react https://img.shields.io/badge/Spring%20Boot-3-green?logo=springboot https://img.shields.io/badge/MongoDB-6-brightgreen?logo=mongodb https://img.shields.io/badge/Netlify-Deployed-success?logo=netlify https://img.shields.io/badge/License-MIT-yellow https://img.shields.io/github/stars/erickomondi760?style=social
+# 👋 Hi, I'm Erick Omondi  
+
+![React](https://img.shields.io/badge/React-18-blue?logo=react)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-green?logo=springboot)
+![MongoDB](https://img.shields.io/badge/MongoDB-6-brightgreen?logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-8-blue?logo=mysql)
+![Oracle](https://img.shields.io/badge/Oracle-Database-red?logo=oracle)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-Streaming-orange?logo=apachekafka)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)
+![JWT](https://img.shields.io/badge/JWT-Auth-yellow?logo=jsonwebtokens)
+![OAuth](https://img.shields.io/badge/OAuth-2.0-lightgrey?logo=oauth)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-success?logo=githubactions)
+![Netlify](https://img.shields.io/badge/Netlify-Deployed-success?logo=netlify)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![GitHub stars](https://img.shields.io/github/stars/erickomondi760?style=social)
+
 
 ---
 
