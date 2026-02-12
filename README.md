@@ -79,11 +79,11 @@ Hi, I’m **Erick Omondi** — a spirited full‑stack developer with a strong f
 ---
 
 ## 📌 Skills
-- **Frontend:** React, Vite, JavaFX  
-- **Backend:** Java, Spring Boot, Node.js  
-- **Database:** MongoDB, MySQL  
-- **Deployment:** Netlify, Vercel  
-- **Other:** JWT Security, REST APIs, CI/CD  
+- **Frontend:** React, Vite, JavaScript  
+- **Backend:** Java, Spring Boot  
+- **Database:** MongoDB, MySQL, Oracle, PostgreSQL   
+- **Deployment:** Netlify, Vercel, AWS
+- **Other:** JWT Security, OAuth,Kafka, Docker,  REST APIs, CI/CD  
 
 ---
 
